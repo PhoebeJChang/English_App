@@ -85,8 +85,8 @@ This is a term project of Introduction to Database Systems course in FJU CSIE (f
 
 ### Contributors
 
-<a href="https://github.com/fuyu-chung/English_App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fuyu-chung/English_App" />
+<a href="https://github.com/PhoebeJChang/English_App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PhoebeJChang/English_App" />
 </a>
 
 <details><summary>Table of Contents</summary>
